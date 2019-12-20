@@ -1,0 +1,9 @@
+https://		protocole
+moodle.cpnv.ch		domaine
+/mod/folder/view.php	ressource
+?
+id=16390		query string
+
+
+
+$_GET['variable'];	variable super globale
